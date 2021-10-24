@@ -105,12 +105,16 @@
 
            }
 
+          .avatar {
+            margin-top: 0;
+          }
+
           .avatar > img {
-            margin-top: 45px;
+            margin-top: 212px;
           }
 
           .avatar span {
-            margin-top: 45px;
+            margin-top: 212px;
                    
           }
 
